@@ -1,7 +1,12 @@
-﻿'Lane Coleman
+﻿Option Strict On
+Option Explicit On
+
+
+'Lane Coleman
 'RCET0265
 'Fall 2020
 'Say My Name
+'https://github.com/colelane/SayMyName.git
 
 
 
