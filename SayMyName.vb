@@ -1,5 +1,7 @@
 ﻿Option Strict On
 Option Explicit On
+Option Compare Text
+
 
 
 'Lane Coleman
