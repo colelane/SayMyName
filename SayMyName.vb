@@ -33,7 +33,7 @@ Module SayMyName
         Console.ReadLine()
         Console.WriteLine("Are you allergic to oats?")
         userInput = Console.ReadLine()
-        If userInput = "Shut up" Then Console.Beep(4000, 10000)
+        If userInput = "Shut up" Then My.Computer.Audio.Play(My.Resources.dont_touch_me, AudioPlayMode.WaitToComplete)
         Console.WriteLine("https://www.youtube.com/watch?v=G9FGgwCQ22w")
         Console.WriteLine("Would you like to watch the video? Yes or No?")
         userInput = Console.ReadLine()
