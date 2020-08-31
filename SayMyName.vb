@@ -13,6 +13,8 @@ Option Compare Text
 
 
 Module SayMyName
+    'Ian and I wrote this code together so we could learn together.
+    'This is a reference to a video we like.  Dont hug me im scared 4. Which is linked in the program.
 
     Sub Main()
         Dim userInput As String
